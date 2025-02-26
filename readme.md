@@ -22,7 +22,7 @@
 - [x] Aufgabe 1 erledigt 
 - [ ] Aufgabe 2 noch offen
 
-[Click me] (https://google.com)
+[Click me](https://google.com)
 
 ###### Hier ist meine Meinung.[^1]
 
