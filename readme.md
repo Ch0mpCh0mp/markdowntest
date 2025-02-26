@@ -31,6 +31,8 @@ Wenn es nicht auf der Zunge brennt ist es kein Käse
 <details>
 <summary>Klick mich!</summary>Hier steht ein versteckter Text.</details>
 
+![image](matheformel.svg)
+
 $$E=mc^2$$
 
 :rocket:
