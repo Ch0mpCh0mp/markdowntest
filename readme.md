@@ -51,3 +51,5 @@ $$E=mc^2$$
 <span style="color:blue">Blau Text</span>
 
 $${\color{red}Red}$$
+
+$\color{green}{\textsf{Green}}$
