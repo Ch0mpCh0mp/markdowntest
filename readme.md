@@ -44,8 +44,8 @@ $$E=mc^2$$
 :white_check_mark:
 
 
-<span style="color:red">Roter Text</span>
+<span style="color:red">Roter Text
 
-<span style="color:green">Grüner Text</span>
+<span style="color:green">Grüner Text
 
-<span style="color:blue">Blau Text</span>
+<span style="color:blue">Blau Text
