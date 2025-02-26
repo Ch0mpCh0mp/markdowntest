@@ -33,4 +33,17 @@ Wenn es nicht auf der Zunge brennt ist es kein Käse
 
 $$E=mc^2$$
 
+:rocket
 
+:tada
+
+:sunglasses
+
+:white_check_mark
+
+
+<span style="color:red">Roter Text</span>
+
+<span style="color:green">Grüner Text</span>
+
+<span style="color:blue">Blau Text</span>
