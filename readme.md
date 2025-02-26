@@ -26,10 +26,7 @@ Hier ist meine Meinung.[^1]
 ---
 Wenn es nicht auf der Zunge brennt ist es kein Käse
 
-<b>Ist der Text jetzt Fett mit HTML?<b>
 
-<details>
-<summary>Klick mich!</summary>Hier steht ein versteckter Text.</details>
 
 ![image](matheformel.svg)
 
@@ -44,11 +41,7 @@ $$E=mc^2$$
 :white_check_mark:
 
 
-<span style="color:red">Roter Text</span>
 
-<span style="color:green">Grüner Text</span>
-
-<span style="color:blue">Blau Text</span>
 
 $${\color{red}Red}$$
 
