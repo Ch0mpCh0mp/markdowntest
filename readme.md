@@ -1,12 +1,12 @@
 # Hallo!
 
-Herzlich Willkommen zu meinem ersten Markdown.
+## Herzlich Willkommen zu meinem ersten Markdown.
 
-**Schauen wir mal wie ich es verschönern kann**
+### **Schauen wir mal wie ich es verschönern kann**
 
-*erstmal googlen was für Möglichkeiten es gibt*
+#### *erstmal googlen was für Möglichkeiten es gibt*
 
-***Da ist ja echt ordentlich was möglich***
+##### ***Da ist ja echt ordentlich was möglich***
 
 |Name|Alter|Beruf|
 |----|-----|-----|
@@ -18,9 +18,9 @@ Herzlich Willkommen zu meinem ersten Markdown.
 - [x] Aufgabe 1 erledigt 
 - [ ] Aufgabe 2 noch offen
 
+[Click me] (https://google.com)
 
-
-Hier ist meine Meinung.[^1]
+###### Hier ist meine Meinung.[^1]
 
 [^1]: Stinkekäse ist der beste Käse
 ---
@@ -32,17 +32,17 @@ Wenn es nicht auf der Zunge brennt ist es kein Käse
 
 $$E=mc^2$$
 
-:rocket:
-
-:tada:
-
-:sunglasses:
-
-:white_check_mark:
 
 
+- :rocket:
+
+- :tada:
+
+- :sunglasses:
+
+- :white_check_mark:
 
 
-$${\color{red}Red}$$
+1. $${\color{red}Red}$$
 
-$\color{green}{\textsf{Green}}$
+2. $\color{green}{\textsf{Green}}$
