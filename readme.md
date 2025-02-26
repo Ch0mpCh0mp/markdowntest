@@ -26,7 +26,7 @@
 
 ###### Hier ist meine Meinung.[^1]
 
-## [^1]: Stinkekäse ist der beste Käse
+[^1]: Stinkekäse ist der beste Käse
 ---
 Wenn es nicht auf der Zunge brennt ist es kein Käse
 
