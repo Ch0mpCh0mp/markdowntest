@@ -4,6 +4,10 @@
 
 ### **Schauen wir mal wie ich es verschönern kann**
 
+## Inhalt
+- [Einleitung](#einleitung)
+- [Abschluß](Abschluß)
+
 #### *erstmal googlen was für Möglichkeiten es gibt*
 
 ##### ***Da ist ja echt ordentlich was möglich***
@@ -46,3 +50,9 @@ $$E=mc^2$$
 1. $${\color{red}Red}$$
 
 2. $\color{green}{\textsf{Green}}$
+
+[Mein GitHub-Projekt](https://github.com/Ch0mpCh0mp/markdowntest?tab=readme-ov-file#user-content-fn-1-d25ed4adc4d40c3605d5821837c7df4f)
+
+
+![image](proudbaby.jpeg)
+
